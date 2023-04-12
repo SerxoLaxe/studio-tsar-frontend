@@ -1,3 +1,3 @@
-import MainPage from "./Main";
+import LandingPage from "./Landing";
 
-export {MainPage}
+export {LandingPage}

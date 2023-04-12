@@ -1,11 +1,11 @@
 import { useState } from "react";
-import { MainPage } from "../../pages";
+import { LandingPage } from "../../pages";
 function App() {
   const [page, setPage] = useState("landing");
 
   return (
     <div className="App">
-      <MainPage />
+      <LandingPage />
     </div>
   );
 }
